@@ -60,6 +60,12 @@ const TechIcon = ({ name, className = "w-6 h-6" }: TechIconProps) => {
       'sqlite': '/assets/skills/SQLite.png',
       'brave search': '/assets/skills/bravesearch.jpg',
       'gradio': '/assets/skills/gradio.png',
+      'fastapi': '/assets/skills/FastAPI.png',
+      'django': '/assets/skills/django.png',
+      'pytorch': '/assets/skills/pytorch.png',
+      'tensorflow': '/assets/skills/tensorflow.jpg',
+      'scikit-learn': '/assets/skills/sklearn.png',
+      'github actions': '/assets/skills/github action.png',
 
     };
 
@@ -158,3 +164,5 @@ const TechIcon = ({ name, className = "w-6 h-6" }: TechIconProps) => {
 };
 
 export default TechIcon;
+
+

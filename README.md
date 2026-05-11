@@ -6,7 +6,7 @@ A modern and responsive developer portfolio showcasing my work in full-stack eng
 
 ## 🌐 Live Demo
 
-🔗 [View Portfolio](https://code-lens-git-main-shilpee-04s-projects.vercel.app/)
+🔗 [View Portfolio](https://portfolio-tawny-psi-61.vercel.app/)
 
 ---
 
@@ -168,16 +168,7 @@ vercel
 
 - GitHub: https://github.com/shilpee-04
 - LinkedIn: https://www.linkedin.com/in/shilpee-kumari/
-- Portfolio: https://code-lens-git-main-shilpee-04s-projects.vercel.app/
+- Portfolio: https://portfolio-tawny-psi-61.vercel.app/
 
 ---
 
-## 📄 License
-
-This project is open source and available under the MIT License.
-
----
-
-## ⭐ Support
-
-If you found this project useful, consider giving it a star on GitHub.

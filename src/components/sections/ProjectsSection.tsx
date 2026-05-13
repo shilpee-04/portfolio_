@@ -24,7 +24,7 @@ const ProjectsSection = () => {
     "CodeTrail": "/assets/Projects/CodeTrail.png", 
     "FeedForward": "/assets/Projects/FeedForward.png",
     "Alumni Hunt": "/assets/institutions/iitk-logo white.png",
-    "Syncronify": "/assets/Projects/Syncronify.png", 
+    "Syncronify": "/assets/Projects/syncronify.jpeg", 
     "Medical Chatbot": "/assets/Projects/medichat.jpg" 
   };
 

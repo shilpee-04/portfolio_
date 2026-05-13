@@ -84,24 +84,7 @@ const ProjectsSection = () => {
         "Custom SQLite schema for agent state management"
       ]
     },
-    {
-      title: "FeedForward",
-      subtitle: "Anonymous Feedback Platform",
-      status: "December 2024", 
-      technologies: ["Next.js", "MongoDB", "Tailwind", "OpenAI", "Redis"],
-      description: "Secure feedback platform combining anonymous communication with AI-powered suggestion systems.",
-      features: [
-        "Built a secure, high-performance backend using Next.js, TypeScript, and complex MongoDB aggregation pipelines.",
-        "Integrated OpenAI APIs to power an intelligent, context-aware feedback suggestion engine.",
-        "Architected a robust security layer utilizing Redis rate limiting, successfully mitigating bot attacks and preventing platform spam."
-      ],
-      highlights: [
-        "Anonymous feedback with AI suggestions",
-        "Advanced spam prevention system",
-        "Real-time analytics dashboard", 
-        "Secure communication platform"
-      ]
-    },
+    
     {
       title: "Syncronify",
       subtitle: "Event Management Platform",
